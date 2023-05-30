@@ -163,7 +163,7 @@ plt.title('Sales vs. Profit based on Segment, Ship Mode and Region')
 
 plt.show()
 ```
-# OUPUT
+# OUTPUT
 
 ![image](https://github.com/shara56/Ex-08-Data-Visualization-/assets/113497104/5d00d634-8715-4132-a1b3-beaf01d3704f)
 
